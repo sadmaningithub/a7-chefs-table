@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": "001",
+      "recipe_name": "Spicy Chicken Tacos",
+      "short_description": "Zesty tacos with grilled chicken and spicy salsa.",
+      "ingredients": ["400 g chicken breast", "100 g salsa", "50 g shredded lettuce", "4 tortillas"],
+      "preparing_time": 35,
+      "calories": 420,
+      "recipe_img": "https://i.ibb.co/TKYTSbF/christine-siracusa-vz-X2rg-Ub-QXM-unsplash.jpg"
+    },
+    {
+      "recipe_id": "002",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy risotto infused with mushroom flavor.",
+      "ingredients": ["300 g Arborio rice", "200 g mushrooms", "1 liter vegetable broth", "100 g grated parmesan"],
+      "preparing_time": 40,
+      "calories": 380,
+      "recipe_img": "https://i.ibb.co/MnQCFb5/max-griss-D9f-Amtj-C284-unsplash.jpg"
+    },
+    {
+      "recipe_id": "003",
+      "recipe_name": "Spinach and Feta Stuffed Chicken",
+      "short_description": "Tender chicken breasts stuffed with spinach and feta cheese.",
+      "ingredients": ["500 g chicken breast", "200 g spinach", "100 g feta cheese", "2 cloves garlic"],
+      "preparing_time": 50,
+      "calories": 320,
+      "recipe_img": "https://i.ibb.co/WPhd5F7/louis-hansel-s-QDTla-ADDGM-unsplash.jpg"
+    },
+    {
+      "recipe_id": "004",
+      "recipe_name": "Quinoa Salad",
+      "short_description": "Nutritious salad with quinoa, vegetables, and lemon vinaigrette.",
+      "ingredients": ["250 g quinoa", "150 g cherry tomatoes", "100 g cucumber", "50 g feta cheese"],
+      "preparing_time": 20,
+      "calories": 280,
+      "recipe_img": "https://i.ibb.co/HhKdcsc/sonny-mauricio-yhc4p-Sbl01-A-unsplash.jpg"
+    },
+    {
+      "recipe_id": "005",
+      "recipe_name": "BBQ Pulled Pork Sandwiches",
+      "short_description": "Slow-cooked pulled pork smothered in tangy BBQ sauce.",
+      "ingredients": ["800 g pork shoulder", "200 ml BBQ sauce", "4 burger buns", "50 g coleslaw"],
+      "preparing_time": 240,
+      "calories": 450,
+      "recipe_img": "https://i.ibb.co/tm52wGs/eaters-collective-Gg5-K-m-Jwu-Q-unsplash.jpg"
+    },
+    {
+      "recipe_id": "006",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Classic homemade cookies loaded with chocolate chips.",
+      "ingredients": ["200 g butter", "300 g all-purpose flour", "200 g chocolate chips", "150 g sugar"],
+      "preparing_time": 25,
+      "calories": 200,
+      "recipe_img": "https://i.ibb.co/W36DKT2/joyful-G4z-Lsx-LIp-AA-unsplash.jpg"
+    }
+  ]
+  
