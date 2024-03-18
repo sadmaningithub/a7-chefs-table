@@ -4,9 +4,9 @@ import Cook from '../Cook/Cook'
 const Cooking = ({ cooking, handleCook }) => {
 
     return (
-        <div className="text-center text-2xl font-semibold min-h-min w-1/3 space-y-8 border rounded-xl border-sky-100">
+        <div className="text-center text-2xl font-semibold min-h-min w-1/3 p-4 space-y-8 border rounded-xl border-sky-100">
             <div className='text-center space-y-8'>
-                <h1>Want to cook: {cooking.length}</h1>
+                <h1 className='mt-8'>Want to cook: {cooking.length}</h1>
                 <hr />
                 <div className='flex flex-row justify-between items-center my-4 text-xl'>
                     <h3>Recipe <br /> Name</h3>
