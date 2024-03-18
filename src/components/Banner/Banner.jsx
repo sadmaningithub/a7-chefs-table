@@ -6,11 +6,11 @@ const Banner = () => {
             <div className='text-[#FFFFFF]' >
                 <div className='space-y-6'>
                     <h1 className='text-6xl	font-bold '>
-                        Discover an exceptional cooking class tailored for you!
+                        Discover all the exceptional cooking recipes tailored for you!
                     </h1>
                     <div className='flex justify-center'>
                         <h4 className='text-lg font-normal max-w-4xl'>
-                            Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
+                            Here you will learn how to cook like best chefs around the world and make restaurant like tasty food.
                         </h4>
                     </div>
 

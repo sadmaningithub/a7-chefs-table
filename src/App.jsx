@@ -14,6 +14,13 @@ function App() {
      setCooking(newCooking)
   }
 
+  const [cooks, setCook] = useState([])
+
+  const handleCook = (cook) => {
+    const newCook = [...cooks, cook ]
+    setCook(newCook)
+  }
+
   return (
     <>
       <header className='max-w-7xl mx-auto'>
@@ -31,7 +38,7 @@ function App() {
         </div>
         <div className='flex flex-col md:flex-row gap-6'>
         <Recipes handleCooking={handleCooking}></Recipes>
-        <Cooking cooking={cooking}></Cooking>
+        <Cooking handleCook={handleCook} cooking={cooking}></Cooking>
         </div>
         
 
