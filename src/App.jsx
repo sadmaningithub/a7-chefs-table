@@ -33,7 +33,7 @@ function App() {
             Our Recipes
           </h1>
           <p className='text-base	font-normal	'>
-            Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque.
+            Here are some of the most popular recipes for you. Check it out!
           </p>
         </div>
         <div className='flex flex-col md:flex-row gap-6'>
